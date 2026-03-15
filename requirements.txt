@@ -1,0 +1,5 @@
+# Peninsula AIGP - Python Dependencies
+# Install: pip install -r requirements.txt
+
+matplotlib>=3.8.0
+numpy>=1.26.0
